@@ -6,5 +6,5 @@ I have served as an algorithm engineer and team leader at a top-tier internet co
 
 如果需要OA助攻的，请查看[这里](https://github.com/Jaywxy/wz1ge_oavosupport/blob/main/OA_Support.md)。
 
-如果需要VO助攻的，请查看[这里](https://github.com/Jaywxy/comeback_oavosupport/tree/main/VO_assessment/readme.md)。
-# OA_Support
+如果需要VO助攻的，请查看[这里](https://github.com/Jaywxy/wz1ge_oavosupport/blob/main/VO_Support.md)。
+
