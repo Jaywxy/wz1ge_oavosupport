@@ -1,7 +1,7 @@
 # 前言 Preface
-保证AC，有通过不了的全部退款。先写后款，不会存在任何争议行为，可通过小红书，淘宝，闲鱼第三方渠道付款，保证客户的隐私和安全。开摄像头录音的也有办法操作。目前算法题通过率100%。所有平台均可，CodeSignal平台我致力于刷满分，可供半年使用，此后无需再做这个平台的OA，只需要share report即可。
+**保证AC**，有通过不了的全部退款。先写后款，不会存在任何争议行为，可通过小红书，淘宝，闲鱼第三方渠道付款，保证客户的隐私和安全。开摄像头录音的也有办法操作。**目前算法题通过率100%**。所有平台均可，CodeSignal平台我致力于刷满分，可供半年使用，此后无需再做这个平台的OA，只需要share report即可。
  
-Guaranteed AC (Accepted). Full refund if unsuccessful. Payment is made after completion, ensuring no disputes. You can pay through third-party platforms like Xiaohongshu, Taobao, or Xianyu, ensuring client privacy and security. There are solutions even for sessions with camera and audio recording. Currently, the algorithm pass rate is 100%. All platforms are supported. For the CodeSignal platform, I strive for a perfect score, which remains valid for six months. After that, you won’t need to retake the OA on this platform—just share the report.
+**Guaranteed AC (Accepted)**. Full refund if unsuccessful. Payment is made after completion, ensuring no disputes. You can pay through third-party platforms like Xiaohongshu, Taobao, or Xianyu, ensuring client privacy and security. There are solutions even for sessions with camera and audio recording. **Currently, the algorithm pass rate is 100%**. All platforms are supported. For the CodeSignal platform, I strive for a perfect score, which remains valid for six months. After that, you won’t need to retake the OA on this platform—just share the report.
 
 # 语言
 我擅长的语言是`Java`、`C++`和`Python`，你可以从中选一门语言让我作答。但是，根据题目的一些特殊性质，我可能会请求你更换语言编写。比如以下原因：
@@ -14,7 +14,7 @@ I specialize in Java, Python, and C++.
 # 模式
 所有平台均可以 **HackerRank + CodeSignal + Codelity + coderpad** 等等
 
-添加我后直接发送公司名称 + OA ddl + 岗位 + 需要语言即可
+添加我后直接发送**公司名称 + OA ddl + 岗位 + 需要语言**即可
 我会告诉你是否需要开摄像头
 
 **不需要：**直接发送**link address + 平台的账号（你收到oa的邮箱）+ 密码**即可，_千万不要点击link，否则可能会失效_。
