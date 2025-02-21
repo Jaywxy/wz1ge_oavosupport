@@ -10,7 +10,8 @@ I have served as an algorithm engineer and team leader at a top-tier internet co
 3. 春/秋招刷题备战计划指导
 4. 可提供1v1算法教学 - 98072 上门
 5. 可用java/python/C/C++
-Scope of Services:  
+
+# Scope of Services:  
 1. OA/VO remote assistance  
 2. Resume revision and polishing  
 3. Guidance on spring/fall recruitment prep and problem-solving plans  
